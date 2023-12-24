@@ -1,0 +1,7 @@
+F:\Новая папка\labs\lab3\lab3\bin\Debug\lab3.exe.config
+F:\Новая папка\labs\lab3\lab3\bin\Debug\lab3.exe
+F:\Новая папка\labs\lab3\lab3\bin\Debug\lab3.pdb
+F:\Новая папка\labs\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\Новая папка\labs\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\Новая папка\labs\lab3\lab3\obj\Debug\lab3.exe
+F:\Новая папка\labs\lab3\lab3\obj\Debug\lab3.pdb
